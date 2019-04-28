@@ -1,12 +1,15 @@
 Simple Flask App
 ================
 
-.. image:: https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=S88P7RgqLZ&Days=1&Design=1
-     :target: https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/
+-statuscake
 
+.. image:: https://app.statuscake.com/button/index.php?Track=S88P7RgqLZ&Days=1&Design=1
+   :target: https://www.statuscake.com
+
+-Travis
 
 .. image:: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app.svg?branch=master
-    :target: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app
+   :target: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app
 
 Aplikacja Dydaktyczna wyświetlająca imię i wiadomość w różnych formatach dla zajęć
 o Continuous Integration, Continuous Delivery i Continuous Deployment.
