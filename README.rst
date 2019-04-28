@@ -1,8 +1,8 @@
 Simple Flask App
 ================
 
-.. image:: https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=vU5GEECMQK&Days=1&Design=1
-    :target: https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index
+.. image:: https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=S88P7RgqLZ&Days=1&Design=1
+     :target: https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/
 
 
 .. image:: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app.svg?branch=master
