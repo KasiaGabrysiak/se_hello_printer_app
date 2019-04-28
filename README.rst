@@ -5,15 +5,14 @@ Simple Flask App
 -statuscake
 
 .. image:: https://app.statuscake.com/button/index.php?Track=S88P7RgqLZ&Days=1&Design=1
-   :target: https://www.statuscake.com
+    :target: https://www.statuscake.com
 
 -Travis
 
 .. image:: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app.svg?branch=master
-   :target: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app
-=======
-.. image:: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app.svg?branch=master
     :target: https://travis-ci.org/KasiaGabrysiak/se_hello_printer_app
+=======
+
 Simple Flask App
 ================
 >>>>>>> cbba9c5ecf8fef58ec32e116fe256867104c136f
